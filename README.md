@@ -2,16 +2,14 @@
 
 Меня зовут **Наталья Катаева**, я - начинающий 1С-программист.
 
+### Я умею
+* Создавать обработки
+* Создавать печатные формы и отчёты
+* Создавать сценарии для автоматизированного сценарного тестирования при помощи Vanessa Automation
+* Писать SQL запросы
 
-- 👋 Hi, I’m @NataliaKatayeva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Сертификаты Нетологии
+[Среда разработки и конфигурация](https://netology.ru/backend/api/user/programs/37480/pdf_certificate)  
 
-<!---
-NataliaKatayeva/NataliaKatayeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
