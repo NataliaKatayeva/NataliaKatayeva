@@ -8,7 +8,7 @@
 * писать SQL запросы
 * создавать сценарии для автоматизированного сценарного тестирования при помощи Vanessa Automation
 
-### Сертификаты Нетологии
+### Сертификаты Нетологии:
 * [Среда разработки и конфигурация](https://netology.ru/backend/api/user/programs/37480/pdf_certificate)
 * [Встроенный язык](https://netology.ru/backend/api/user/programs/37484/pdf_certificate)
 * [Интерфейс](https://netology.ru/backend/api/user/programs/40101/pdf_certificate)
