@@ -3,7 +3,7 @@
 Меня зовут **Наталья Катаева**, я - начинающий 1С-программист.
 
 ### Я умею:
-* создавать обработки СлучайныйИНН.epf https://github.com/NataliaKatayeva/portfolio/blob/master/%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B8%CC%86%D0%BD%D1%8B%D0%B8%CC%86%D0%98%D0%9D%D0%9D.epf
+* создавать обработки https://github.com/NataliaKatayeva/portfolio/blob/master/%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B8%CC%86%D0%BD%D1%8B%D0%B8%CC%86%D0%98%D0%9D%D0%9D.epf
 * создавать печатные формы и отчёты
 * писать SQL запросы
 * создавать сценарии для автоматизированного сценарного тестирования при помощи Vanessa Automation
